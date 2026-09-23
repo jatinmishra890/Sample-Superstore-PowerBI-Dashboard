@@ -13,11 +13,11 @@ The dashboard also contains a **State slicer** that allows users to filter the r
 
 ### 📊 Sales Dashboard
 
-![Sales Dashboard](Screenshots/Dashboard-Sales.png)
+![Sales Dashboard](Screenshot/Dashboard-Sales.png)
 
 ### 💰 Profit Dashboard
 
-![Profit Dashboard](Screenshots/Dashboard-Profit.png)
+![Profit Dashboard](Screenshot/Dashboard-Profit.png)
 
 ---
 
