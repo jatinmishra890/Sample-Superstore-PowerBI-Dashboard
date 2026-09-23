@@ -9,12 +9,15 @@ I created this dashboard using **Microsoft Power BI Desktop** to understand and 
 The dashboard also contains a **State slicer** that allows users to filter the report interactively.
 
 ---
-
 ## 🖼️ Dashboard Preview
 
-![Sample Superstore Dashboard By Sales ](sScreenshot 2026-09-23 195525.png)
+### 📊 Sales Dashboard
 
-![Sample Superstore Dashboard By Profit](Screenshot 2026-09-23 195620.png)
+![Sales Dashboard](Screenshots/Dashboard-Sales.png)
+
+### 💰 Profit Dashboard
+
+![Profit Dashboard](Screenshots/Dashboard-Profit.png)
 
 ---
 
