@@ -14,7 +14,7 @@ The dashboard also contains a **State slicer** that allows users to filter the r
 
 ![Sample Superstore Dashboard](sScreenshot 2026-09-23 195525.png)
 
-![Filtered Dashboard](screenshots/dashboard-filtered.png)
+![Filtered Dashboard](Screenshot 2026-09-23 195620.png)
 
 ---
 
