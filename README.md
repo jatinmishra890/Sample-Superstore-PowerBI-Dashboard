@@ -12,9 +12,9 @@ The dashboard also contains a **State slicer** that allows users to filter the r
 
 ## 🖼️ Dashboard Preview
 
-![Sample Superstore Dashboard](sScreenshot 2026-09-23 195525.png)
+![Sample Superstore Dashboard By Sales ](sScreenshot 2026-09-23 195525.png)
 
-![Filtered Dashboard](Screenshot 2026-09-23 195620.png)
+![Sample Superstore Dashboard By Profit](Screenshot 2026-09-23 195620.png)
 
 ---
 
